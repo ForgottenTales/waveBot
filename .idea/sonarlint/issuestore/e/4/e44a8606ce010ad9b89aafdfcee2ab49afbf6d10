@@ -1,0 +1,12 @@
+
+Xsquid:S1854"7Remove this useless assignment to local variable "red".(¦Šö³ÿÿÿÿÿ8€ğÜ³¤+
+asquid:S2184"FCast one of the operands of this substraction operation to a "double".(ŸŸÃ)8¶Øá³¤+
+=squid:S2189""Add an end condition to this loop.(¤èÄ78É³Å³¤+
+Rsquid:S1854"7Remove this useless assignment to local variable "red".(ÂÀ»T8€ğÜ³¤+
+1squid:S1220""Move this file to a named package.
+Csquid:S1481"(Remove this unused "red" local variable.(ÂÀ»T8€ğÜ³¤+
+Xsquid:S1854"7Remove this useless assignment to local variable "red".(¦Šö³ÿÿÿÿÿ8€ğÜ³¤+
+[squid:S1118":Add a private constructor to hide the implicit public one.(”ÄÚÏùÿÿÿÿ8ÖÍ³¤+
+Xsquid:S1854"7Remove this useless assignment to local variable "red".(¦Šö³ÿÿÿÿÿ8€ğÜ³¤+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(‘ÜçÍ8¶Øá³¤+
